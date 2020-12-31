@@ -7,7 +7,7 @@ Android Studio를 기반으로 개발한 인스타그램 카피 앱
 * [Jaeyoung Lim](https://github.com/limjustin)   
 * [jiminAn](https://github.com/jiminAn)   
 * [Rudy-009](https://github.com/Rudy-009)   
-* [sja3410](https://github.com/sja3410)   
+* [sunjungAn](https://github.com/sunjungAn)   
 <br/>
 
 ## Application Sample
